@@ -21,23 +21,27 @@ const fallbackProfile = {
     "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=500&q=80",
   education: [
     {
-      title: "Bachelor of Science in Information Technology",
-      body: "Cotabato State University · 2024",
+      title: "Bachelor of Science in Geothermal Engineering",
+      body: "Negros Oriental State University · 2018-2023",
     },
     {
-      title: "Senior High School — STEM",
-      body: "Cotabato City National High School · 2020",
+      title: "Diploma in Information Technology",
+      body: "Asian College · 2023-Ongoing",
     },
   ],
   experience: [
     {
-      title: "Frontend Developer Intern",
+      title: "IT Support Analyst Intern - ECE Contact Center Noel Site",
+      body: "Provided hardware and software support for internal users.",
+    },
+    {
+      title: "Web Developer Intern",
       body: "Created portfolio UI components and connected live data to Supabase.",
     },
     {
-      title: "IT Support Analyst",
-      body: "Provided hardware and software support for internal users.",
-    },
+      title: "Web Developer",
+      body: "Developed and maintained responsive websites using modern web technologies."
+    }
   ],
 };
 
